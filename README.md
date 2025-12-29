@@ -5,13 +5,15 @@ This repository contains the source code for the IROS 2025 paper:
 📄 **arXiv:** https://arxiv.org/abs/2503.08068  
 📘 **IEEE Xplore:** https://ieeexplore.ieee.org/document/11247276  
 > *Note: the IEEE Xplore version contains minor typos; please refer to the arXiv version for the most accurate text.*
-
+The corresponding video is available at YouTube (https://www.youtube.com/watch?v=dybbkPePHD4&t=1s), and bilibili (https://www.bilibili.com/video/BV1AdKwzLEPW/?spm_id_from=333.1387.0.0&vd_source=eb4269e8fa059487e2a91ce411765468).
 ---
 
 ## Overview
 
 This project focuses on simulating automotive radar signals (pitch, yaw, range, velocity, reflectivity) by leveraging multimodal sensor inputs, including **LiDAR** and **camera data**.  
 The simulator is designed to model radar observations in complex driving environments and serves as a research tool for perception, sensor fusion, and learning-based radar understanding.
+
+In addition to the network architectures and training pipelines, this codebase also provides a development toolkit for processing several **4D automotive radar datasets**, such as **VoD** and **MSC-Rad4R**.
 
 ---
 
