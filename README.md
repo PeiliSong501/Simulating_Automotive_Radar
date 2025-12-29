@@ -7,6 +7,7 @@ This repository contains the source code for the IROS 2025 paper:
 > *Note: the IEEE Xplore version contains minor typos; please refer to the arXiv version for the most accurate text.*
 
 The corresponding video is available at YouTube (https://www.youtube.com/watch?v=dybbkPePHD4&t=1s), and bilibili (https://www.bilibili.com/video/BV1AdKwzLEPW/?spm_id_from=333.1387.0.0&vd_source=eb4269e8fa059487e2a91ce411765468).
+
 ---
 
 ## Overview
