@@ -38,7 +38,7 @@ A **cleaned and refactored version** of the codebase will be released in the fut
 - usage instructions and examples
 - configuration explanations
 
-✉️ If you have urgent questions or require clarification for reproduction purposes, feel free to contact the author via email: **your_email@domain.com**
+✉️ If you have urgent questions or require clarification for reproduction purposes, feel free to contact the author via email: **peilisong@mail.nankai.edu.cn**
 
 Please stay tuned for updates.
 ---
