@@ -1,0 +1,256 @@
+2024-12-31 13:36:22,279 - INFO - Training started for dataset: VoD
+2024-12-31 13:36:22,279 - INFO - Batch size: 4, Epochs: 30
+2024-12-31 13:36:24,200 - INFO - Epoch 1/30 started.
+2024-12-31 13:51:17,980 - INFO - avg KL Divergence loss of epoch 0: 0.33328006723521175
+2024-12-31 13:51:17,981 - INFO - avg KL Divergence loss (resized image) of epoch 0: 0.33236822572364255
+2024-12-31 13:51:17,982 - INFO - avg number percentage loss of epoch 0: 0.5962101328804068
+2024-12-31 13:57:18,447 - INFO - Validation total loss = 10000000
+2024-12-31 13:57:18,447 - INFO - avg KL Divergence loss:  0.3086104559989376
+2024-12-31 13:57:18,447 - INFO - avg KL Divergence loss （resized image）:  0.30762519784101094
+2024-12-31 13:57:18,448 - INFO - avg number percentage loss:  0.04818505469544343
+2024-12-31 13:57:18,448 - INFO - min total loss = 0.3567955100581846, model saved!
+2024-12-31 13:57:18,793 - INFO - Epoch 2/30 started.
+2024-12-31 14:11:17,618 - INFO - avg KL Divergence loss of epoch 1: 0.30054604423698345
+2024-12-31 14:11:17,619 - INFO - avg KL Divergence loss (resized image) of epoch 1: 0.29957212054894483
+2024-12-31 14:11:17,619 - INFO - avg number percentage loss of epoch 1: 0.05108163807620635
+2024-12-31 14:15:51,606 - INFO - Validation total loss = 0.3567955100581846
+2024-12-31 14:15:51,607 - INFO - avg KL Divergence loss:  0.29910394713168836
+2024-12-31 14:15:51,607 - INFO - avg KL Divergence loss （resized image）:  0.2981108293506025
+2024-12-31 14:15:51,607 - INFO - avg number percentage loss:  0.03971387218587982
+2024-12-31 14:15:51,607 - INFO - min total loss = 0.33881781888372114, model saved!
+2024-12-31 14:15:51,921 - INFO - Epoch 3/30 started.
+2024-12-31 14:29:10,394 - INFO - avg KL Divergence loss of epoch 2: 0.29042463636194
+2024-12-31 14:29:10,395 - INFO - avg KL Divergence loss (resized image) of epoch 2: 0.2894459793892988
+2024-12-31 14:29:10,395 - INFO - avg number percentage loss of epoch 2: 0.03741395128370571
+2024-12-31 14:34:03,647 - INFO - Validation total loss = 0.33881781888372114
+2024-12-31 14:34:03,647 - INFO - avg KL Divergence loss:  0.292109209390087
+2024-12-31 14:34:03,648 - INFO - avg KL Divergence loss （resized image）:  0.2911350411085682
+2024-12-31 14:34:03,648 - INFO - avg number percentage loss:  0.04401807935609845
+2024-12-31 14:34:03,648 - INFO - min total loss = 0.3361272886964201, model saved!
+2024-12-31 14:34:03,952 - INFO - Epoch 4/30 started.
+2024-12-31 14:46:52,319 - INFO - avg KL Divergence loss of epoch 3: 0.2838811126974121
+2024-12-31 14:46:52,321 - INFO - avg KL Divergence loss (resized image) of epoch 3: 0.28290986598284523
+2024-12-31 14:46:52,321 - INFO - avg number percentage loss of epoch 3: 0.030944446651879717
+2024-12-31 14:51:23,912 - INFO - Validation total loss = 0.3361272886964201
+2024-12-31 14:51:23,912 - INFO - avg KL Divergence loss:  0.28281533265386827
+2024-12-31 14:51:23,912 - INFO - avg KL Divergence loss （resized image）:  0.28184727924015684
+2024-12-31 14:51:23,912 - INFO - avg number percentage loss:  0.0338491738916069
+2024-12-31 14:51:23,912 - INFO - min total loss = 0.3166645065518736, model saved!
+2024-12-31 14:51:24,216 - INFO - Epoch 5/30 started.
+2024-12-31 15:04:46,611 - INFO - avg KL Divergence loss of epoch 4: 0.2787760518535471
+2024-12-31 15:04:46,612 - INFO - avg KL Divergence loss (resized image) of epoch 4: 0.27780385724046
+2024-12-31 15:04:46,612 - INFO - avg number percentage loss of epoch 4: 0.0247362656253103
+2024-12-31 15:09:39,824 - INFO - Validation total loss = 0.3166645065518736
+2024-12-31 15:09:39,825 - INFO - avg KL Divergence loss:  0.28137997238690615
+2024-12-31 15:09:39,825 - INFO - avg KL Divergence loss （resized image）:  0.2804099561603925
+2024-12-31 15:09:39,825 - INFO - avg number percentage loss:  0.03770729330970856
+2024-12-31 15:09:39,825 - INFO - Epoch 6/30 started.
+2024-12-31 15:23:37,515 - INFO - avg KL Divergence loss of epoch 5: 0.274674175716028
+2024-12-31 15:23:37,516 - INFO - avg KL Divergence loss (resized image) of epoch 5: 0.2736996790159668
+2024-12-31 15:23:37,516 - INFO - avg number percentage loss of epoch 5: 0.019950907693736173
+2024-12-31 15:29:00,602 - INFO - Validation total loss = 0.3166645065518736
+2024-12-31 15:29:00,603 - INFO - avg KL Divergence loss:  0.27900288976330795
+2024-12-31 15:29:00,603 - INFO - avg KL Divergence loss （resized image）:  0.2779604509586596
+2024-12-31 15:29:00,603 - INFO - avg number percentage loss:  0.03223640363359511
+2024-12-31 15:29:00,603 - INFO - min total loss = 0.3112392933996579, model saved!
+2024-12-31 15:29:00,971 - INFO - Epoch 7/30 started.
+2024-12-31 15:42:43,644 - INFO - avg KL Divergence loss of epoch 6: 0.27140103817850486
+2024-12-31 15:42:43,646 - INFO - avg KL Divergence loss (resized image) of epoch 6: 0.27042093168730474
+2024-12-31 15:42:43,646 - INFO - avg number percentage loss of epoch 6: 0.015144620519165188
+2024-12-31 15:48:53,707 - INFO - Validation total loss = 0.3112392933996579
+2024-12-31 15:48:53,708 - INFO - avg KL Divergence loss:  0.27413372818295284
+2024-12-31 15:48:53,708 - INFO - avg KL Divergence loss （resized image）:  0.2731453038126458
+2024-12-31 15:48:53,708 - INFO - avg number percentage loss:  0.03614120971467453
+2024-12-31 15:48:53,708 - INFO - min total loss = 0.3102749385679041, model saved!
+2024-12-31 15:48:54,047 - INFO - Epoch 8/30 started.
+2024-12-31 16:03:28,756 - INFO - avg KL Divergence loss of epoch 7: 0.2685108466138947
+2024-12-31 16:03:28,757 - INFO - avg KL Divergence loss (resized image) of epoch 7: 0.2675262709432475
+2024-12-31 16:03:28,757 - INFO - avg number percentage loss of epoch 7: 0.013675778988028502
+2024-12-31 16:09:18,523 - INFO - Validation total loss = 0.3102749385679041
+2024-12-31 16:09:18,523 - INFO - avg KL Divergence loss:  0.26976822032273273
+2024-12-31 16:09:18,524 - INFO - avg KL Divergence loss （resized image）:  0.2688008183741388
+2024-12-31 16:09:18,524 - INFO - avg number percentage loss:  0.03076504563688583
+2024-12-31 16:09:18,524 - INFO - min total loss = 0.3005332662859036, model saved!
+2024-12-31 16:09:18,822 - INFO - Epoch 9/30 started.
+2024-12-31 16:23:05,475 - INFO - avg KL Divergence loss of epoch 8: 0.26605649320955094
+2024-12-31 16:23:05,476 - INFO - avg KL Divergence loss (resized image) of epoch 8: 0.2650649206726348
+2024-12-31 16:23:05,476 - INFO - avg number percentage loss of epoch 8: 0.01082657811018726
+2024-12-31 16:29:09,472 - INFO - Validation total loss = 0.3005332662859036
+2024-12-31 16:29:09,473 - INFO - avg KL Divergence loss:  0.2680543994175569
+2024-12-31 16:29:09,473 - INFO - avg KL Divergence loss （resized image）:  0.26705762518726234
+2024-12-31 16:29:09,473 - INFO - avg number percentage loss:  0.028252271821238954
+2024-12-31 16:29:09,473 - INFO - min total loss = 0.296306671168058, model saved!
+2024-12-31 16:29:10,031 - INFO - Epoch 10/30 started.
+2024-12-31 16:42:59,742 - INFO - avg KL Divergence loss of epoch 9: 0.2638710225068509
+2024-12-31 16:42:59,744 - INFO - avg KL Divergence loss (resized image) of epoch 9: 0.2628759981066126
+2024-12-31 16:42:59,744 - INFO - avg number percentage loss of epoch 9: 0.009363984933112864
+2024-12-31 16:48:17,342 - INFO - Validation total loss = 0.296306671168058
+2024-12-31 16:48:17,343 - INFO - avg KL Divergence loss:  0.2694286850345044
+2024-12-31 16:48:17,343 - INFO - avg KL Divergence loss （resized image）:  0.2683810468165929
+2024-12-31 16:48:17,343 - INFO - avg number percentage loss:  0.027070721821919577
+2024-12-31 16:48:17,343 - INFO - Epoch 11/30 started.
+2024-12-31 17:01:30,525 - INFO - avg KL Divergence loss of epoch 10: 0.2622762562985788
+2024-12-31 17:01:30,527 - INFO - avg KL Divergence loss (resized image) of epoch 10: 0.26127872447591904
+2024-12-31 17:01:30,527 - INFO - avg number percentage loss of epoch 10: 0.008503269405170523
+2024-12-31 17:06:46,797 - INFO - Validation total loss = 0.296306671168058
+2024-12-31 17:06:46,797 - INFO - avg KL Divergence loss:  0.26495112990605013
+2024-12-31 17:06:46,797 - INFO - avg KL Divergence loss （resized image）:  0.26396328431504373
+2024-12-31 17:06:46,797 - INFO - avg number percentage loss:  0.029148547871585738
+2024-12-31 17:06:46,797 - INFO - min total loss = 0.29409967781478213, model saved!
+2024-12-31 17:06:47,364 - INFO - Epoch 12/30 started.
+2024-12-31 17:20:32,843 - INFO - avg KL Divergence loss of epoch 11: 0.2607297302667609
+2024-12-31 17:20:32,845 - INFO - avg KL Divergence loss (resized image) of epoch 11: 0.25972801164018533
+2024-12-31 17:20:32,845 - INFO - avg number percentage loss of epoch 11: 0.007194760428795599
+2024-12-31 17:25:30,845 - INFO - Validation total loss = 0.29409967781478213
+2024-12-31 17:25:30,845 - INFO - avg KL Divergence loss:  0.2643682924618248
+2024-12-31 17:25:30,846 - INFO - avg KL Divergence loss （resized image）:  0.26332390629153213
+2024-12-31 17:25:30,846 - INFO - avg number percentage loss:  0.02611209728403145
+2024-12-31 17:25:30,846 - INFO - min total loss = 0.2904803895995817, model saved!
+2024-12-31 17:25:31,275 - INFO - Epoch 13/30 started.
+2024-12-31 17:39:25,157 - INFO - avg KL Divergence loss of epoch 12: 0.25938411337926975
+2024-12-31 17:39:25,159 - INFO - avg KL Divergence loss (resized image) of epoch 12: 0.258377577051098
+2024-12-31 17:39:25,159 - INFO - avg number percentage loss of epoch 12: 0.006553635717228874
+2024-12-31 17:44:42,852 - INFO - Validation total loss = 0.2904803895995817
+2024-12-31 17:44:42,853 - INFO - avg KL Divergence loss:  0.2623240094375974
+2024-12-31 17:44:42,853 - INFO - avg KL Divergence loss （resized image）:  0.2613129173298828
+2024-12-31 17:44:42,853 - INFO - avg number percentage loss:  0.030586311019750893
+2024-12-31 17:44:42,853 - INFO - Epoch 14/30 started.
+2024-12-31 17:58:31,829 - INFO - avg KL Divergence loss of epoch 13: 0.2581843949790526
+2024-12-31 17:58:31,831 - INFO - avg KL Divergence loss (resized image) of epoch 13: 0.2571756470219116
+2024-12-31 17:58:31,832 - INFO - avg number percentage loss of epoch 13: 0.005775390767961948
+2024-12-31 18:03:34,709 - INFO - Validation total loss = 0.2904803895995817
+2024-12-31 18:03:34,709 - INFO - avg KL Divergence loss:  0.26204809758044384
+2024-12-31 18:03:34,709 - INFO - avg KL Divergence loss （resized image）:  0.26099836255302866
+2024-12-31 18:03:34,709 - INFO - avg number percentage loss:  0.026620674209637242
+2024-12-31 18:03:34,709 - INFO - min total loss = 0.2886687715772454, model saved!
+2024-12-31 18:03:35,027 - INFO - Epoch 15/30 started.
+2024-12-31 18:17:05,203 - INFO - avg KL Divergence loss of epoch 14: 0.2572705629886415
+2024-12-31 18:17:05,204 - INFO - avg KL Divergence loss (resized image) of epoch 14: 0.25625841685950795
+2024-12-31 18:17:05,204 - INFO - avg number percentage loss of epoch 14: 0.005760177459617897
+2024-12-31 18:22:04,194 - INFO - Validation total loss = 0.2886687715772454
+2024-12-31 18:22:04,195 - INFO - avg KL Divergence loss:  0.2614246750605925
+2024-12-31 18:22:04,195 - INFO - avg KL Divergence loss （resized image）:  0.26041924382439097
+2024-12-31 18:22:04,195 - INFO - avg number percentage loss:  0.028134365314049007
+2024-12-31 18:22:04,195 - INFO - Epoch 16/30 started.
+2024-12-31 18:35:37,460 - INFO - avg KL Divergence loss of epoch 15: 0.2561947595310903
+2024-12-31 18:35:37,461 - INFO - avg KL Divergence loss (resized image) of epoch 15: 0.25517912372092155
+2024-12-31 18:35:37,461 - INFO - avg number percentage loss of epoch 15: 0.0049253070263540494
+2024-12-31 18:41:28,059 - INFO - Validation total loss = 0.2886687715772454
+2024-12-31 18:41:28,060 - INFO - avg KL Divergence loss:  0.26020047776116667
+2024-12-31 18:41:28,060 - INFO - avg KL Divergence loss （resized image）:  0.2591996604249678
+2024-12-31 18:41:28,060 - INFO - avg number percentage loss:  0.029937317928668994
+2024-12-31 18:41:28,060 - INFO - Epoch 17/30 started.
+2024-12-31 18:55:18,704 - INFO - avg KL Divergence loss of epoch 16: 0.255466029951662
+2024-12-31 18:55:18,707 - INFO - avg KL Divergence loss (resized image) of epoch 16: 0.2544478917385138
+2024-12-31 18:55:18,707 - INFO - avg number percentage loss of epoch 16: 0.004575413945934669
+2024-12-31 19:00:32,467 - INFO - Validation total loss = 0.2886687715772454
+2024-12-31 19:00:32,467 - INFO - avg KL Divergence loss:  0.25941413875299557
+2024-12-31 19:00:32,467 - INFO - avg KL Divergence loss （resized image）:  0.25840228707280777
+2024-12-31 19:00:32,468 - INFO - avg number percentage loss:  0.02552703360659035
+2024-12-31 19:00:32,468 - INFO - min total loss = 0.28494117225854454, model saved!
+2024-12-31 19:00:32,784 - INFO - Epoch 18/30 started.
+2024-12-31 19:13:29,365 - INFO - avg KL Divergence loss of epoch 17: 0.2545838134612547
+2024-12-31 19:13:29,366 - INFO - avg KL Divergence loss (resized image) of epoch 17: 0.25356362524320203
+2024-12-31 19:13:29,366 - INFO - avg number percentage loss of epoch 17: 0.004408932420629131
+2024-12-31 19:18:58,241 - INFO - Validation total loss = 0.28494117225854454
+2024-12-31 19:18:58,241 - INFO - avg KL Divergence loss:  0.26267824100174064
+2024-12-31 19:18:58,242 - INFO - avg KL Divergence loss （resized image）:  0.26168922213197665
+2024-12-31 19:18:58,242 - INFO - avg number percentage loss:  0.027639178906474972
+2024-12-31 19:18:58,242 - INFO - Epoch 19/30 started.
+2024-12-31 19:32:35,862 - INFO - avg KL Divergence loss of epoch 18: 0.25395763130587184
+2024-12-31 19:32:35,863 - INFO - avg KL Divergence loss (resized image) of epoch 18: 0.25293367529925187
+2024-12-31 19:32:35,863 - INFO - avg number percentage loss of epoch 18: 0.0041707967048716845
+2024-12-31 19:37:41,768 - INFO - Validation total loss = 0.28494117225854454
+2024-12-31 19:37:41,768 - INFO - avg KL Divergence loss:  0.2589253361898524
+2024-12-31 19:37:41,769 - INFO - avg KL Divergence loss （resized image）:  0.2579033517883024
+2024-12-31 19:37:41,769 - INFO - avg number percentage loss:  0.024988309786928717
+2024-12-31 19:37:41,769 - INFO - min total loss = 0.2839136459672724, model saved!
+2024-12-31 19:37:42,148 - INFO - Epoch 20/30 started.
+2024-12-31 19:51:02,562 - INFO - avg KL Divergence loss of epoch 19: 0.2534966445923952
+2024-12-31 19:51:02,563 - INFO - avg KL Divergence loss (resized image) of epoch 19: 0.2524708012412391
+2024-12-31 19:51:02,563 - INFO - avg number percentage loss of epoch 19: 0.004012527286312031
+2024-12-31 19:56:16,650 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 19:56:16,650 - INFO - avg KL Divergence loss:  0.25946643311558787
+2024-12-31 19:56:16,650 - INFO - avg KL Divergence loss （resized image）:  0.2584352915068619
+2024-12-31 19:56:16,650 - INFO - avg number percentage loss:  0.026327418470364208
+2024-12-31 19:56:16,650 - INFO - Epoch 21/30 started.
+2024-12-31 20:10:09,084 - INFO - avg KL Divergence loss of epoch 20: 0.25290571472404344
+2024-12-31 20:10:09,086 - INFO - avg KL Divergence loss (resized image) of epoch 20: 0.25187679715626476
+2024-12-31 20:10:09,086 - INFO - avg number percentage loss of epoch 20: 0.003656609728568823
+2024-12-31 20:15:24,484 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 20:15:24,485 - INFO - avg KL Divergence loss:  0.25788143584291445
+2024-12-31 20:15:24,485 - INFO - avg KL Divergence loss （resized image）:  0.2568563764331905
+2024-12-31 20:15:24,485 - INFO - avg number percentage loss:  0.02784348029837915
+2024-12-31 20:15:24,485 - INFO - Epoch 22/30 started.
+2024-12-31 20:29:18,901 - INFO - avg KL Divergence loss of epoch 21: 0.25243163328856016
+2024-12-31 20:29:18,902 - INFO - avg KL Divergence loss (resized image) of epoch 21: 0.2514002353011894
+2024-12-31 20:29:18,903 - INFO - avg number percentage loss of epoch 21: 0.0031682838932560018
+2024-12-31 20:35:22,476 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 20:35:22,478 - INFO - avg KL Divergence loss:  0.26114197003704903
+2024-12-31 20:35:22,478 - INFO - avg KL Divergence loss （resized image）:  0.2600797652515746
+2024-12-31 20:35:22,478 - INFO - avg number percentage loss:  0.027378719971330397
+2024-12-31 20:35:22,478 - INFO - Epoch 23/30 started.
+2024-12-31 20:49:42,711 - INFO - avg KL Divergence loss of epoch 22: 0.25206830353035925
+2024-12-31 20:49:42,712 - INFO - avg KL Divergence loss (resized image) of epoch 22: 0.25103479332057915
+2024-12-31 20:49:42,712 - INFO - avg number percentage loss of epoch 22: 0.0031606405128425737
+2024-12-31 20:55:41,321 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 20:55:41,321 - INFO - avg KL Divergence loss:  0.25825849818136853
+2024-12-31 20:55:41,321 - INFO - avg KL Divergence loss （resized image）:  0.2572542951762221
+2024-12-31 20:55:41,322 - INFO - avg number percentage loss:  0.02708723515153059
+2024-12-31 20:55:41,322 - INFO - Epoch 24/30 started.
+2024-12-31 21:09:48,444 - INFO - avg KL Divergence loss of epoch 23: 0.2515583461299097
+2024-12-31 21:09:48,445 - INFO - avg KL Divergence loss (resized image) of epoch 23: 0.25052114078577364
+2024-12-31 21:09:48,445 - INFO - avg number percentage loss of epoch 23: 0.003256595770297919
+2024-12-31 21:14:58,596 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 21:14:58,596 - INFO - avg KL Divergence loss:  0.2606647174321968
+2024-12-31 21:14:58,596 - INFO - avg KL Divergence loss （resized image）:  0.2596789089777997
+2024-12-31 21:14:58,596 - INFO - avg number percentage loss:  0.024222454596408607
+2024-12-31 21:14:58,597 - INFO - Epoch 25/30 started.
+2024-12-31 21:28:19,098 - INFO - avg KL Divergence loss of epoch 24: 0.25129133321457814
+2024-12-31 21:28:19,099 - INFO - avg KL Divergence loss (resized image) of epoch 24: 0.2502537150336239
+2024-12-31 21:28:19,100 - INFO - avg number percentage loss of epoch 24: 0.002950503659310604
+2024-12-31 21:33:13,116 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 21:33:13,117 - INFO - avg KL Divergence loss:  0.256898789028175
+2024-12-31 21:33:13,117 - INFO - avg KL Divergence loss （resized image）:  0.25587479205986924
+2024-12-31 21:33:13,117 - INFO - avg number percentage loss:  0.02973837197997309
+2024-12-31 21:33:13,117 - INFO - Epoch 26/30 started.
+2024-12-31 21:47:26,307 - INFO - avg KL Divergence loss of epoch 25: 0.25088473994360994
+2024-12-31 21:47:26,308 - INFO - avg KL Divergence loss (resized image) of epoch 25: 0.2498454039102333
+2024-12-31 21:47:26,308 - INFO - avg number percentage loss of epoch 25: 0.0027313929805715268
+2024-12-31 21:53:11,665 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 21:53:11,665 - INFO - avg KL Divergence loss:  0.2570624653847163
+2024-12-31 21:53:11,665 - INFO - avg KL Divergence loss （resized image）:  0.25603358188203273
+2024-12-31 21:53:11,666 - INFO - avg number percentage loss:  0.02710855382962067
+2024-12-31 21:53:11,666 - INFO - Epoch 27/30 started.
+2024-12-31 22:05:19,560 - INFO - avg KL Divergence loss of epoch 26: 0.2504964917849064
+2024-12-31 22:05:19,562 - INFO - avg KL Divergence loss (resized image) of epoch 26: 0.2494530612375678
+2024-12-31 22:05:19,562 - INFO - avg number percentage loss of epoch 26: 0.0026067012586125757
+2024-12-31 22:11:11,330 - INFO - Validation total loss = 0.2839136459672724
+2024-12-31 22:11:11,330 - INFO - avg KL Divergence loss:  0.2574962388240654
+2024-12-31 22:11:11,331 - INFO - avg KL Divergence loss （resized image）:  0.2564898672222181
+2024-12-31 22:11:11,331 - INFO - avg number percentage loss:  0.025298979107418473
+2024-12-31 22:11:11,331 - INFO - min total loss = 0.2827952182474937, model saved!
+2024-12-31 22:11:11,672 - INFO - Epoch 28/30 started.
+2024-12-31 22:23:22,637 - INFO - avg KL Divergence loss of epoch 27: 0.250228555287353
+2024-12-31 22:23:22,639 - INFO - avg KL Divergence loss (resized image) of epoch 27: 0.24918590229675028
+2024-12-31 22:23:22,639 - INFO - avg number percentage loss of epoch 27: 0.0025945677499104054
+2024-12-31 22:28:44,424 - INFO - Validation total loss = 0.2827952182474937
+2024-12-31 22:28:44,425 - INFO - avg KL Divergence loss:  0.2573193227289287
+2024-12-31 22:28:44,425 - INFO - avg KL Divergence loss （resized image）:  0.2562914878357458
+2024-12-31 22:28:44,425 - INFO - avg number percentage loss:  0.02970306842911363
+2024-12-31 22:28:44,425 - INFO - Epoch 29/30 started.
+2024-12-31 22:40:49,363 - INFO - avg KL Divergence loss of epoch 28: 0.2500504406958563
+2024-12-31 22:40:49,365 - INFO - avg KL Divergence loss (resized image) of epoch 28: 0.24900584866832415
+2024-12-31 22:40:49,365 - INFO - avg number percentage loss of epoch 28: 0.002527032075333371
+2024-12-31 22:46:12,756 - INFO - Validation total loss = 0.2827952182474937
+2024-12-31 22:46:12,756 - INFO - avg KL Divergence loss:  0.25717821808261726
+2024-12-31 22:46:12,756 - INFO - avg KL Divergence loss （resized image）:  0.256171971150027
+2024-12-31 22:46:12,756 - INFO - avg number percentage loss:  0.02647219183605932
+2024-12-31 22:46:12,756 - INFO - Epoch 30/30 started.
+2024-12-31 22:57:40,523 - INFO - avg KL Divergence loss of epoch 29: 0.24972562931463288
+2024-12-31 22:57:40,525 - INFO - avg KL Divergence loss (resized image) of epoch 29: 0.24867955764697897
+2024-12-31 22:57:40,525 - INFO - avg number percentage loss of epoch 29: 0.002352472343014104
+2024-12-31 23:02:39,593 - INFO - Validation total loss = 0.2827952182474937
+2024-12-31 23:02:39,593 - INFO - avg KL Divergence loss:  0.25655263496264247
+2024-12-31 23:02:39,594 - INFO - avg KL Divergence loss （resized image）:  0.25553727336512266
+2024-12-31 23:02:39,594 - INFO - avg number percentage loss:  0.026301917632444556

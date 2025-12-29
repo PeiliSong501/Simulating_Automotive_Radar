@@ -1,0 +1,254 @@
+2025-01-26 03:34:05,027 - INFO - Training started for dataset: VoD
+2025-01-26 03:34:05,027 - INFO - Batch size: 4, Epochs: 30
+2025-01-26 03:34:06,738 - INFO - Epoch 1/30 started.
+2025-01-26 03:39:42,504 - INFO - avg KL Divergence loss of epoch 0: 0.2908307489845104
+2025-01-26 03:39:42,504 - INFO - avg number percentage loss of epoch 0: 0.10529767571864707
+2025-01-26 03:39:42,505 - INFO - sum pixel mse loss of epoch 0: 0.016984820752370865
+2025-01-26 03:41:09,003 - INFO - Validation total loss = 10000000
+2025-01-26 03:41:09,004 - INFO - avg KL Divergence loss:  0.2404612420169452
+2025-01-26 03:41:09,004 - INFO - avg number percentage loss:  0.05287130236135128
+2025-01-26 03:41:09,004 - INFO - sum of pixel mse loss:  0.012995204490872513
+2025-01-26 03:41:09,004 - INFO - min total loss = 0.30632774902664067, model saved!
+2025-01-26 03:41:09,151 - INFO - Epoch 2/30 started.
+2025-01-26 03:46:42,212 - INFO - avg KL Divergence loss of epoch 1: 0.22650978008460748
+2025-01-26 03:46:42,213 - INFO - avg number percentage loss of epoch 1: 0.0416935114586347
+2025-01-26 03:46:42,213 - INFO - sum pixel mse loss of epoch 1: 0.011712446655947948
+2025-01-26 03:48:09,247 - INFO - Validation total loss = 0.30632774902664067
+2025-01-26 03:48:09,247 - INFO - avg KL Divergence loss:  0.22163592970553245
+2025-01-26 03:48:09,247 - INFO - avg number percentage loss:  0.04056130608202506
+2025-01-26 03:48:09,247 - INFO - sum of pixel mse loss:  0.011284933020254129
+2025-01-26 03:48:09,247 - INFO - min total loss = 0.27348216874453857, model saved!
+2025-01-26 03:48:09,365 - INFO - Epoch 3/30 started.
+2025-01-26 03:53:44,323 - INFO - avg KL Divergence loss of epoch 2: 0.20583292883167004
+2025-01-26 03:53:44,324 - INFO - avg number percentage loss of epoch 2: 0.026857251114007538
+2025-01-26 03:53:44,324 - INFO - sum pixel mse loss of epoch 2: 0.010066963719350182
+2025-01-26 03:55:10,882 - INFO - Validation total loss = 0.27348216874453857
+2025-01-26 03:55:10,883 - INFO - avg KL Divergence loss:  0.21216137734533266
+2025-01-26 03:55:10,883 - INFO - avg number percentage loss:  0.034495271577229654
+2025-01-26 03:55:10,883 - INFO - sum of pixel mse loss:  0.010452582084979038
+2025-01-26 03:55:10,883 - INFO - min total loss = 0.2571092302335128, model saved!
+2025-01-26 03:55:10,986 - INFO - Epoch 4/30 started.
+2025-01-26 04:00:41,987 - INFO - avg KL Divergence loss of epoch 3: 0.1935094453507375
+2025-01-26 04:00:41,988 - INFO - avg number percentage loss of epoch 3: 0.020765141106518992
+2025-01-26 04:00:41,988 - INFO - sum pixel mse loss of epoch 3: 0.009108378909664547
+2025-01-26 04:02:08,445 - INFO - Validation total loss = 0.2571092302335128
+2025-01-26 04:02:08,445 - INFO - avg KL Divergence loss:  0.19806266565814273
+2025-01-26 04:02:08,445 - INFO - avg number percentage loss:  0.03132196553273638
+2025-01-26 04:02:08,445 - INFO - sum of pixel mse loss:  0.00873794650573653
+2025-01-26 04:02:08,446 - INFO - min total loss = 0.2381225779538846, model saved!
+2025-01-26 04:02:08,547 - INFO - Epoch 5/30 started.
+2025-01-26 04:07:40,869 - INFO - avg KL Divergence loss of epoch 4: 0.18487194989885872
+2025-01-26 04:07:40,869 - INFO - avg number percentage loss of epoch 4: 0.016005235216494815
+2025-01-26 04:07:40,869 - INFO - sum pixel mse loss of epoch 4: 0.008397917269349058
+2025-01-26 04:09:08,451 - INFO - Validation total loss = 0.2381225779538846
+2025-01-26 04:09:08,451 - INFO - avg KL Divergence loss:  0.19690626664016084
+2025-01-26 04:09:08,451 - INFO - avg number percentage loss:  0.03399348923599237
+2025-01-26 04:09:08,451 - INFO - sum of pixel mse loss:  0.00885467565163458
+2025-01-26 04:09:08,452 - INFO - Epoch 6/30 started.
+2025-01-26 04:14:39,589 - INFO - avg KL Divergence loss of epoch 5: 0.17786129125459618
+2025-01-26 04:14:39,590 - INFO - avg number percentage loss of epoch 5: 0.014075730097340144
+2025-01-26 04:14:39,590 - INFO - sum pixel mse loss of epoch 5: 0.007878294965742192
+2025-01-26 04:16:06,685 - INFO - Validation total loss = 0.2381225779538846
+2025-01-26 04:16:06,686 - INFO - avg KL Divergence loss:  0.19449847736431441
+2025-01-26 04:16:06,686 - INFO - avg number percentage loss:  0.028727917806027663
+2025-01-26 04:16:06,686 - INFO - sum of pixel mse loss:  0.008658539102135496
+2025-01-26 04:16:06,686 - INFO - min total loss = 0.23188493449724357, model saved!
+2025-01-26 04:16:06,815 - INFO - Epoch 7/30 started.
+2025-01-26 04:21:37,436 - INFO - avg KL Divergence loss of epoch 6: 0.1713084896772255
+2025-01-26 04:21:37,437 - INFO - avg number percentage loss of epoch 6: 0.010336699848797006
+2025-01-26 04:21:37,437 - INFO - sum pixel mse loss of epoch 6: 0.007347758534323269
+2025-01-26 04:23:03,591 - INFO - Validation total loss = 0.23188493449724357
+2025-01-26 04:23:03,591 - INFO - avg KL Divergence loss:  0.19085610290520064
+2025-01-26 04:23:03,591 - INFO - avg number percentage loss:  0.027656089802333046
+2025-01-26 04:23:03,591 - INFO - sum of pixel mse loss:  0.008607051795959927
+2025-01-26 04:23:03,592 - INFO - min total loss = 0.2271192445554806, model saved!
+2025-01-26 04:23:03,694 - INFO - Epoch 8/30 started.
+2025-01-26 04:28:34,043 - INFO - avg KL Divergence loss of epoch 7: 0.12736993972592708
+2025-01-26 04:28:34,045 - INFO - avg number percentage loss of epoch 7: 0.008593763837073736
+2025-01-26 04:28:34,045 - INFO - sum pixel mse loss of epoch 7: 0.0055068923370242264
+2025-01-26 04:29:59,888 - INFO - Validation total loss = 0.2271192445554806
+2025-01-26 04:29:59,889 - INFO - avg KL Divergence loss:  0.14243007211284783
+2025-01-26 04:29:59,889 - INFO - avg number percentage loss:  0.026491405451421462
+2025-01-26 04:29:59,889 - INFO - sum of pixel mse loss:  0.006753947971857913
+2025-01-26 04:29:59,889 - INFO - min total loss = 0.1756754254566804, model saved!
+2025-01-26 04:29:59,990 - INFO - Epoch 9/30 started.
+2025-01-26 04:35:31,950 - INFO - avg KL Divergence loss of epoch 8: 0.11300599868252785
+2025-01-26 04:35:31,951 - INFO - avg number percentage loss of epoch 8: 0.006706311625429688
+2025-01-26 04:35:31,951 - INFO - sum pixel mse loss of epoch 8: 0.004749559082662418
+2025-01-26 04:36:58,009 - INFO - Validation total loss = 0.1756754254566804
+2025-01-26 04:36:58,009 - INFO - avg KL Divergence loss:  0.1387884845829192
+2025-01-26 04:36:58,009 - INFO - avg number percentage loss:  0.03109123183419672
+2025-01-26 04:36:58,010 - INFO - sum of pixel mse loss:  0.006443668364277039
+2025-01-26 04:36:58,010 - INFO - Epoch 10/30 started.
+2025-01-26 04:42:30,167 - INFO - avg KL Divergence loss of epoch 9: 0.10651732806359457
+2025-01-26 04:42:30,167 - INFO - avg number percentage loss of epoch 9: 0.006368152865290951
+2025-01-26 04:42:30,167 - INFO - sum pixel mse loss of epoch 9: 0.00437007616168157
+2025-01-26 04:43:55,947 - INFO - Validation total loss = 0.1756754254566804
+2025-01-26 04:43:55,947 - INFO - avg KL Divergence loss:  0.13619447661037665
+2025-01-26 04:43:55,947 - INFO - avg number percentage loss:  0.025212247045497405
+2025-01-26 04:43:55,947 - INFO - sum of pixel mse loss:  0.006424053317959641
+2025-01-26 04:43:55,948 - INFO - min total loss = 0.16783077675877636, model saved!
+2025-01-26 04:43:56,048 - INFO - Epoch 11/30 started.
+2025-01-26 04:49:27,267 - INFO - avg KL Divergence loss of epoch 10: 0.10092679799663919
+2025-01-26 04:49:27,268 - INFO - avg number percentage loss of epoch 10: 0.005420006238123341
+2025-01-26 04:49:27,268 - INFO - sum pixel mse loss of epoch 10: 0.00406081330438802
+2025-01-26 04:50:53,331 - INFO - Validation total loss = 0.16783077675877636
+2025-01-26 04:50:53,332 - INFO - avg KL Divergence loss:  0.13857004007765356
+2025-01-26 04:50:53,332 - INFO - avg number percentage loss:  0.0240687383113473
+2025-01-26 04:50:53,332 - INFO - sum of pixel mse loss:  0.0063900235126804535
+2025-01-26 04:50:53,332 - INFO - Epoch 12/30 started.
+2025-01-26 04:56:24,440 - INFO - avg KL Divergence loss of epoch 11: 0.0959232103082013
+2025-01-26 04:56:24,440 - INFO - avg number percentage loss of epoch 11: 0.0049348281553802205
+2025-01-26 04:56:24,441 - INFO - sum pixel mse loss of epoch 11: 0.003769525107617589
+2025-01-26 04:57:50,265 - INFO - Validation total loss = 0.16783077675877636
+2025-01-26 04:57:50,265 - INFO - avg KL Divergence loss:  0.13347722430720585
+2025-01-26 04:57:50,265 - INFO - avg number percentage loss:  0.02561481654811082
+2025-01-26 04:57:50,265 - INFO - sum of pixel mse loss:  0.005883170104095044
+2025-01-26 04:57:50,265 - INFO - min total loss = 0.1649752102280391, model saved!
+2025-01-26 04:57:50,364 - INFO - Epoch 13/30 started.
+2025-01-26 05:03:21,355 - INFO - avg KL Divergence loss of epoch 12: 0.09112794765061899
+2025-01-26 05:03:21,356 - INFO - avg number percentage loss of epoch 12: 0.004537802895936785
+2025-01-26 05:03:21,356 - INFO - sum pixel mse loss of epoch 12: 0.0034906026111773277
+2025-01-26 05:04:47,051 - INFO - Validation total loss = 0.1649752102280391
+2025-01-26 05:04:47,051 - INFO - avg KL Divergence loss:  0.1365424096129323
+2025-01-26 05:04:47,051 - INFO - avg number percentage loss:  0.024942148540645324
+2025-01-26 05:04:47,051 - INFO - sum of pixel mse loss:  0.006096006113723034
+2025-01-26 05:04:47,052 - INFO - Epoch 14/30 started.
+2025-01-26 05:10:15,460 - INFO - avg KL Divergence loss of epoch 13: 0.08006129242926738
+2025-01-26 05:10:15,461 - INFO - avg number percentage loss of epoch 13: 0.0042349455283510066
+2025-01-26 05:10:15,462 - INFO - sum pixel mse loss of epoch 13: 0.0030310169938551454
+2025-01-26 05:11:39,084 - INFO - Validation total loss = 0.1649752102280391
+2025-01-26 05:11:39,085 - INFO - avg KL Divergence loss:  0.12763074931070095
+2025-01-26 05:11:39,085 - INFO - avg number percentage loss:  0.025688301185137086
+2025-01-26 05:11:39,085 - INFO - sum of pixel mse loss:  0.005674623141335395
+2025-01-26 05:11:39,085 - INFO - min total loss = 0.15899367375683238, model saved!
+2025-01-26 05:11:39,211 - INFO - Epoch 15/30 started.
+2025-01-26 05:17:05,206 - INFO - avg KL Divergence loss of epoch 14: 0.07534424353810856
+2025-01-26 05:17:05,207 - INFO - avg number percentage loss of epoch 14: 0.0038904324393501033
+2025-01-26 05:17:05,207 - INFO - sum pixel mse loss of epoch 14: 0.0027813324600399207
+2025-01-26 05:18:28,716 - INFO - Validation total loss = 0.15899367375683238
+2025-01-26 05:18:28,716 - INFO - avg KL Divergence loss:  0.12655028806615423
+2025-01-26 05:18:28,716 - INFO - avg number percentage loss:  0.025872157312812328
+2025-01-26 05:18:28,717 - INFO - sum of pixel mse loss:  0.005612367417357635
+2025-01-26 05:18:28,717 - INFO - min total loss = 0.15803481322208435, model saved!
+2025-01-26 05:18:28,822 - INFO - Epoch 16/30 started.
+2025-01-26 05:23:54,338 - INFO - avg KL Divergence loss of epoch 15: 0.059312873681419055
+2025-01-26 05:23:54,338 - INFO - avg number percentage loss of epoch 15: 0.003535724869065463
+2025-01-26 05:23:54,339 - INFO - sum pixel mse loss of epoch 15: 0.0021121058792327686
+2025-01-26 05:25:19,444 - INFO - Validation total loss = 0.15803481322208435
+2025-01-26 05:25:19,444 - INFO - avg KL Divergence loss:  0.10661804641931112
+2025-01-26 05:25:19,445 - INFO - avg number percentage loss:  0.02484298767193171
+2025-01-26 05:25:19,445 - INFO - sum of pixel mse loss:  0.004828857907222029
+2025-01-26 05:25:19,445 - INFO - min total loss = 0.13628989245372874, model saved!
+2025-01-26 05:25:19,563 - INFO - Epoch 17/30 started.
+2025-01-26 05:30:50,804 - INFO - avg KL Divergence loss of epoch 16: 0.04809082740759409
+2025-01-26 05:30:50,805 - INFO - avg number percentage loss of epoch 16: 0.003336310369893515
+2025-01-26 05:30:50,806 - INFO - sum pixel mse loss of epoch 16: 0.0016435017014931011
+2025-01-26 05:32:17,201 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 05:32:17,201 - INFO - avg KL Divergence loss:  0.1098999975519326
+2025-01-26 05:32:17,202 - INFO - avg number percentage loss:  0.028935899514658733
+2025-01-26 05:32:17,202 - INFO - sum of pixel mse loss:  0.0050687540523380835
+2025-01-26 05:32:17,202 - INFO - Epoch 18/30 started.
+2025-01-26 05:37:49,914 - INFO - avg KL Divergence loss of epoch 17: 0.04434015984839134
+2025-01-26 05:37:49,915 - INFO - avg number percentage loss of epoch 17: 0.003086749134936848
+2025-01-26 05:37:49,915 - INFO - sum pixel mse loss of epoch 17: 0.0014994048658358123
+2025-01-26 05:39:15,663 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 05:39:15,664 - INFO - avg KL Divergence loss:  0.10775921340207108
+2025-01-26 05:39:15,664 - INFO - avg number percentage loss:  0.02422745727981931
+2025-01-26 05:39:15,664 - INFO - sum of pixel mse loss:  0.004937717441881772
+2025-01-26 05:39:15,664 - INFO - Epoch 19/30 started.
+2025-01-26 05:44:45,943 - INFO - avg KL Divergence loss of epoch 18: 0.04106872066875076
+2025-01-26 05:44:45,943 - INFO - avg number percentage loss of epoch 18: 0.003008834448636007
+2025-01-26 05:44:45,943 - INFO - sum pixel mse loss of epoch 18: 0.0013824918054657557
+2025-01-26 05:46:12,942 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 05:46:12,943 - INFO - avg KL Divergence loss:  0.10737921202569517
+2025-01-26 05:46:12,943 - INFO - avg number percentage loss:  0.025431709782618547
+2025-01-26 05:46:12,943 - INFO - sum of pixel mse loss:  0.004907068517947755
+2025-01-26 05:46:12,943 - INFO - Epoch 20/30 started.
+2025-01-26 05:51:44,402 - INFO - avg KL Divergence loss of epoch 19: 0.038164213782295474
+2025-01-26 05:51:44,403 - INFO - avg number percentage loss of epoch 19: 0.0028399900951202005
+2025-01-26 05:51:44,403 - INFO - sum pixel mse loss of epoch 19: 0.0012805741210291611
+2025-01-26 05:53:09,938 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 05:53:09,939 - INFO - avg KL Divergence loss:  0.10583793536852334
+2025-01-26 05:53:09,939 - INFO - avg number percentage loss:  0.027348621337557253
+2025-01-26 05:53:09,939 - INFO - sum of pixel mse loss:  0.004765305892059594
+2025-01-26 05:53:09,939 - INFO - Epoch 21/30 started.
+2025-01-26 05:58:41,400 - INFO - avg KL Divergence loss of epoch 20: 0.03557564111778865
+2025-01-26 05:58:41,401 - INFO - avg number percentage loss of epoch 20: 0.002567577725989366
+2025-01-26 05:58:41,401 - INFO - sum pixel mse loss of epoch 20: 0.0011912717627212232
+2025-01-26 06:00:06,901 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:00:06,902 - INFO - avg KL Divergence loss:  0.11028583272722842
+2025-01-26 06:00:06,902 - INFO - avg number percentage loss:  0.02420665651854423
+2025-01-26 06:00:06,902 - INFO - sum of pixel mse loss:  0.00488729237006508
+2025-01-26 06:00:06,902 - INFO - Epoch 22/30 started.
+2025-01-26 06:05:38,051 - INFO - avg KL Divergence loss of epoch 21: 0.03332044271876251
+2025-01-26 06:05:38,052 - INFO - avg number percentage loss of epoch 21: 0.0024637695088762603
+2025-01-26 06:05:38,052 - INFO - sum pixel mse loss of epoch 21: 0.0011431968918608302
+2025-01-26 06:07:03,670 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:07:03,671 - INFO - avg KL Divergence loss:  0.10634272917536379
+2025-01-26 06:07:03,671 - INFO - avg number percentage loss:  0.027743677109771388
+2025-01-26 06:07:03,671 - INFO - sum of pixel mse loss:  0.004768103022370061
+2025-01-26 06:07:03,671 - INFO - Epoch 23/30 started.
+2025-01-26 06:12:35,027 - INFO - avg KL Divergence loss of epoch 22: 0.03147827922418743
+2025-01-26 06:12:35,028 - INFO - avg number percentage loss of epoch 22: 0.002349364242675949
+2025-01-26 06:12:35,028 - INFO - sum pixel mse loss of epoch 22: 0.001086327057571154
+2025-01-26 06:14:01,733 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:14:01,733 - INFO - avg KL Divergence loss:  0.10958515081469339
+2025-01-26 06:14:01,733 - INFO - avg number percentage loss:  0.025045951913494815
+2025-01-26 06:14:01,733 - INFO - sum of pixel mse loss:  0.004963681577235631
+2025-01-26 06:14:01,734 - INFO - Epoch 24/30 started.
+2025-01-26 06:19:35,118 - INFO - avg KL Divergence loss of epoch 23: 0.029470631473341034
+2025-01-26 06:19:35,119 - INFO - avg number percentage loss of epoch 23: 0.002277771007107526
+2025-01-26 06:19:35,119 - INFO - sum pixel mse loss of epoch 23: 0.001029994820815406
+2025-01-26 06:21:02,203 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:21:02,204 - INFO - avg KL Divergence loss:  0.10650119940743191
+2025-01-26 06:21:02,204 - INFO - avg number percentage loss:  0.028116004804939296
+2025-01-26 06:21:02,204 - INFO - sum of pixel mse loss:  0.00482593517224411
+2025-01-26 06:21:02,204 - INFO - Epoch 25/30 started.
+2025-01-26 06:26:32,702 - INFO - avg KL Divergence loss of epoch 24: 0.027806014656264214
+2025-01-26 06:26:32,703 - INFO - avg number percentage loss of epoch 24: 0.002256247430002221
+2025-01-26 06:26:32,703 - INFO - sum pixel mse loss of epoch 24: 0.0009799571331048933
+2025-01-26 06:27:56,928 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:27:56,929 - INFO - avg KL Divergence loss:  0.11088185104477497
+2025-01-26 06:27:56,929 - INFO - avg number percentage loss:  0.024324222212881278
+2025-01-26 06:27:56,929 - INFO - sum of pixel mse loss:  0.0049189895583416215
+2025-01-26 06:27:56,929 - INFO - Epoch 26/30 started.
+2025-01-26 06:33:24,118 - INFO - avg KL Divergence loss of epoch 25: 0.026235866914739638
+2025-01-26 06:33:24,119 - INFO - avg number percentage loss of epoch 25: 0.002137870414140442
+2025-01-26 06:33:24,119 - INFO - sum pixel mse loss of epoch 25: 0.000939518342311227
+2025-01-26 06:34:48,467 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:34:48,468 - INFO - avg KL Divergence loss:  0.10841988455930739
+2025-01-26 06:34:48,468 - INFO - avg number percentage loss:  0.0244084294672117
+2025-01-26 06:34:48,468 - INFO - sum of pixel mse loss:  0.004830049951596342
+2025-01-26 06:34:48,468 - INFO - Epoch 27/30 started.
+2025-01-26 06:40:15,838 - INFO - avg KL Divergence loss of epoch 26: 0.02486111116629332
+2025-01-26 06:40:15,838 - INFO - avg number percentage loss of epoch 26: 0.001960947601127503
+2025-01-26 06:40:15,839 - INFO - sum pixel mse loss of epoch 26: 0.0009061714877413148
+2025-01-26 06:41:40,000 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:41:40,000 - INFO - avg KL Divergence loss:  0.10845376745662616
+2025-01-26 06:41:40,000 - INFO - avg number percentage loss:  0.02481319378517541
+2025-01-26 06:41:40,000 - INFO - sum of pixel mse loss:  0.0047416094505718645
+2025-01-26 06:41:40,001 - INFO - Epoch 28/30 started.
+2025-01-26 06:47:07,426 - INFO - avg KL Divergence loss of epoch 27: 0.023489612898124467
+2025-01-26 06:47:07,426 - INFO - avg number percentage loss of epoch 27: 0.0019541805378045416
+2025-01-26 06:47:07,426 - INFO - sum pixel mse loss of epoch 27: 0.0008673041093894682
+2025-01-26 06:48:31,608 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:48:31,609 - INFO - avg KL Divergence loss:  0.11007596289611045
+2025-01-26 06:48:31,609 - INFO - avg number percentage loss:  0.02507317862926648
+2025-01-26 06:48:31,609 - INFO - sum of pixel mse loss:  0.004736940882289569
+2025-01-26 06:48:31,609 - INFO - Epoch 29/30 started.
+2025-01-26 06:53:58,099 - INFO - avg KL Divergence loss of epoch 28: 0.02236817950406158
+2025-01-26 06:53:58,100 - INFO - avg number percentage loss of epoch 28: 0.0018998889022498245
+2025-01-26 06:53:58,100 - INFO - sum pixel mse loss of epoch 28: 0.0008241389308104214
+2025-01-26 06:55:22,178 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 06:55:22,179 - INFO - avg KL Divergence loss:  0.10829746234052964
+2025-01-26 06:55:22,179 - INFO - avg number percentage loss:  0.025879314361772862
+2025-01-26 06:55:22,179 - INFO - sum of pixel mse loss:  0.004781617258518991
+2025-01-26 06:55:22,179 - INFO - Epoch 30/30 started.
+2025-01-26 07:00:47,621 - INFO - avg KL Divergence loss of epoch 29: 0.021407567933398246
+2025-01-26 07:00:47,622 - INFO - avg number percentage loss of epoch 29: 0.001863860683340388
+2025-01-26 07:00:47,622 - INFO - sum pixel mse loss of epoch 29: 0.0008056532892519173
+2025-01-26 07:02:11,167 - INFO - Validation total loss = 0.13628989245372874
+2025-01-26 07:02:11,167 - INFO - avg KL Divergence loss:  0.1071954218030886
+2025-01-26 07:02:11,167 - INFO - avg number percentage loss:  0.027847710606622184
+2025-01-26 07:02:11,167 - INFO - sum of pixel mse loss:  0.004788433863312177

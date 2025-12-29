@@ -1,0 +1,12 @@
+2025-07-17 07:59:08,112 - INFO - Training started for dataset: MSC
+2025-07-17 07:59:08,112 - INFO - Batch size: 4, Epochs: 50
+2025-07-17 07:59:08,847 - INFO - Epoch 1/50 started.
+2025-07-17 07:59:43,918 - INFO - avg KL Divergence loss of epoch 0: 0.6597892126088502
+2025-07-17 07:59:43,919 - INFO - avg number percentage loss of epoch 0: 0.167736800920759
+2025-07-17 07:59:43,919 - INFO - sum pixel mse loss of epoch 0: 0.0012660387735087826
+2025-07-17 07:59:53,278 - INFO - Validation total loss = 10000000
+2025-07-17 07:59:53,278 - INFO - avg KL Divergence loss:  0.45856465585529804
+2025-07-17 07:59:53,278 - INFO - avg number percentage loss:  0.4695249188691378
+2025-07-17 07:59:53,278 - INFO - sum of pixel mse loss:  0.0007632661487150472
+2025-07-17 07:59:53,279 - INFO - min total loss = 0.9288528397679329, model saved!
+2025-07-17 07:59:53,400 - INFO - Epoch 2/50 started.

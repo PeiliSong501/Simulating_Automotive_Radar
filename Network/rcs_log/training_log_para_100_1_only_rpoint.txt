@@ -1,0 +1,174 @@
+2025-02-27 15:39:10,353 - INFO - Training started for dataset: VoD
+2025-02-27 15:39:10,353 - INFO - Batch size: 8, Epochs: 40
+2025-02-27 15:39:12,841 - INFO - Epoch 1/40 started.
+2025-02-27 15:42:17,825 - INFO - avg training loss of epoch 0: 0.0069757271160731495
+2025-02-27 15:43:09,964 - INFO - min loss = 0.005902610646312706
+2025-02-27 15:43:09,964 - INFO - total_loss_1:76.4416183441624
+2025-02-27 15:43:09,964 - INFO - Model Saved!
+2025-02-27 15:43:10,875 - INFO - Validation results saved.
+2025-02-27 15:43:10,875 - INFO - Epoch 2/40 started.
+2025-02-27 15:46:13,164 - INFO - avg training loss of epoch 1: 0.005843299900878087
+2025-02-27 15:47:01,891 - INFO - min loss = 0.005759134536705619
+2025-02-27 15:47:01,891 - INFO - total_loss_1:74.58353467203916
+2025-02-27 15:47:01,891 - INFO - Model Saved!
+2025-02-27 15:47:02,751 - INFO - Validation results saved.
+2025-02-27 15:47:02,752 - INFO - Epoch 3/40 started.
+2025-02-27 15:50:09,006 - INFO - avg training loss of epoch 2: 0.005763072568014006
+2025-02-27 15:51:02,962 - INFO - min loss = 0.005753656401117353
+2025-02-27 15:51:02,962 - INFO - total_loss_1:74.5125901556805
+2025-02-27 15:51:02,962 - INFO - Model Saved!
+2025-02-27 15:51:03,904 - INFO - Validation results saved.
+2025-02-27 15:51:03,904 - INFO - Epoch 4/40 started.
+2025-02-27 15:54:15,123 - INFO - avg training loss of epoch 3: 0.005725680660141938
+2025-02-27 15:55:09,188 - INFO - Epoch 5/40 started.
+2025-02-27 15:58:27,225 - INFO - avg training loss of epoch 4: 0.005697594807757497
+2025-02-27 15:59:18,140 - INFO - Epoch 6/40 started.
+2025-02-27 16:02:40,105 - INFO - avg training loss of epoch 5: 0.00567135500412247
+2025-02-27 16:03:31,584 - INFO - min loss = 0.005627641973473287
+2025-02-27 16:03:31,584 - INFO - total_loss_1:72.88064314498874
+2025-02-27 16:03:31,584 - INFO - Model Saved!
+2025-02-27 16:03:32,547 - INFO - Validation results saved.
+2025-02-27 16:03:32,547 - INFO - Epoch 7/40 started.
+2025-02-27 16:06:20,729 - INFO - avg training loss of epoch 6: 0.005651022417621808
+2025-02-27 16:07:03,935 - INFO - Epoch 8/40 started.
+2025-02-27 16:09:58,998 - INFO - avg training loss of epoch 7: 0.005630461486909696
+2025-02-27 16:10:44,765 - INFO - min loss = 0.005591033681610618
+2025-02-27 16:10:44,765 - INFO - total_loss_1:72.40654818882108
+2025-02-27 16:10:44,765 - INFO - Model Saved!
+2025-02-27 16:10:45,659 - INFO - Validation results saved.
+2025-02-27 16:10:45,660 - INFO - Epoch 9/40 started.
+2025-02-27 16:13:39,794 - INFO - avg training loss of epoch 8: 0.00560974275181573
+2025-02-27 16:14:27,677 - INFO - min loss = 0.005586425452195154
+2025-02-27 16:14:27,677 - INFO - total_loss_1:72.34686983997084
+2025-02-27 16:14:27,677 - INFO - Model Saved!
+2025-02-27 16:14:28,655 - INFO - Validation results saved.
+2025-02-27 16:14:28,656 - INFO - Epoch 10/40 started.
+2025-02-27 16:17:20,841 - INFO - avg training loss of epoch 9: 0.005586434295587852
+2025-02-27 16:18:06,422 - INFO - min loss = 0.005578118744223565
+2025-02-27 16:18:06,423 - INFO - total_loss_1:72.23929377981639
+2025-02-27 16:18:06,423 - INFO - Model Saved!
+2025-02-27 16:18:07,380 - INFO - Validation results saved.
+2025-02-27 16:18:07,380 - INFO - Epoch 11/40 started.
+2025-02-27 16:21:00,862 - INFO - avg training loss of epoch 10: 0.005567878928093043
+2025-02-27 16:21:46,357 - INFO - min loss = 0.005572433698954288
+2025-02-27 16:21:46,357 - INFO - total_loss_1:72.16566991139182
+2025-02-27 16:21:46,357 - INFO - Model Saved!
+2025-02-27 16:21:47,188 - INFO - Validation results saved.
+2025-02-27 16:21:47,188 - INFO - Epoch 12/40 started.
+2025-02-27 16:24:36,502 - INFO - avg training loss of epoch 11: 0.005548440268027534
+2025-02-27 16:25:20,866 - INFO - Epoch 13/40 started.
+2025-02-27 16:28:15,161 - INFO - avg training loss of epoch 12: 0.005530604247886377
+2025-02-27 16:28:59,035 - INFO - min loss = 0.0055137654923491115
+2025-02-27 16:28:59,035 - INFO - total_loss_1:71.40588861452073
+2025-02-27 16:28:59,035 - INFO - Model Saved!
+2025-02-27 16:28:59,955 - INFO - Validation results saved.
+2025-02-27 16:28:59,955 - INFO - Epoch 14/40 started.
+2025-02-27 16:31:47,507 - INFO - avg training loss of epoch 13: 0.0055133255001324965
+2025-02-27 16:32:30,347 - INFO - min loss = 0.0054945620485873856
+2025-02-27 16:32:30,347 - INFO - total_loss_1:71.15719485437403
+2025-02-27 16:32:30,347 - INFO - Model Saved!
+2025-02-27 16:32:31,231 - INFO - Validation results saved.
+2025-02-27 16:32:31,232 - INFO - Epoch 15/40 started.
+2025-02-27 16:35:18,070 - INFO - avg training loss of epoch 14: 0.005498249718281481
+2025-02-27 16:36:00,897 - INFO - min loss = 0.005475175588518492
+2025-02-27 16:36:00,897 - INFO - total_loss_1:70.90613104358836
+2025-02-27 16:36:00,897 - INFO - Model Saved!
+2025-02-27 16:36:01,782 - INFO - Validation results saved.
+2025-02-27 16:36:01,782 - INFO - Epoch 16/40 started.
+2025-02-27 16:38:47,354 - INFO - avg training loss of epoch 15: 0.005481615777345528
+2025-02-27 16:39:32,588 - INFO - min loss = 0.005464137992556733
+2025-02-27 16:39:32,588 - INFO - total_loss_1:70.76318904039817
+2025-02-27 16:39:32,588 - INFO - Model Saved!
+2025-02-27 16:39:33,556 - INFO - Validation results saved.
+2025-02-27 16:39:33,556 - INFO - Epoch 17/40 started.
+2025-02-27 16:42:28,103 - INFO - avg training loss of epoch 16: 0.005467674046338095
+2025-02-27 16:43:18,589 - INFO - Epoch 18/40 started.
+2025-02-27 16:46:29,979 - INFO - avg training loss of epoch 17: 0.005452648873499634
+2025-02-27 16:47:24,291 - INFO - Epoch 19/40 started.
+2025-02-27 16:50:40,185 - INFO - avg training loss of epoch 18: 0.005437202632692535
+2025-02-27 16:51:35,203 - INFO - Epoch 20/40 started.
+2025-02-27 16:54:52,609 - INFO - avg training loss of epoch 19: 0.005426169180663644
+2025-02-27 16:55:43,939 - INFO - min loss = 0.0054102414407702065
+2025-02-27 16:55:43,939 - INFO - total_loss_1:70.06520295687538
+2025-02-27 16:55:43,940 - INFO - Model Saved!
+2025-02-27 16:55:44,935 - INFO - Validation results saved.
+2025-02-27 16:55:44,935 - INFO - Epoch 21/40 started.
+2025-02-27 16:58:53,111 - INFO - avg training loss of epoch 20: 0.005413947044007239
+2025-02-27 16:59:44,613 - INFO - min loss = 0.005401701814413329
+2025-02-27 16:59:44,614 - INFO - total_loss_1:69.95461065758118
+2025-02-27 16:59:44,614 - INFO - Model Saved!
+2025-02-27 16:59:45,571 - INFO - Validation results saved.
+2025-02-27 16:59:45,571 - INFO - Epoch 22/40 started.
+2025-02-27 17:02:53,107 - INFO - avg training loss of epoch 21: 0.005401337385362803
+2025-02-27 17:03:47,525 - INFO - Epoch 23/40 started.
+2025-02-27 17:07:00,659 - INFO - avg training loss of epoch 22: 0.005391814558991987
+2025-02-27 17:07:53,353 - INFO - min loss = 0.005377223760854018
+2025-02-27 17:07:53,353 - INFO - total_loss_1:69.63760813646815
+2025-02-27 17:07:53,353 - INFO - Model Saved!
+2025-02-27 17:07:54,335 - INFO - Validation results saved.
+2025-02-27 17:07:54,335 - INFO - Epoch 24/40 started.
+2025-02-27 17:11:04,841 - INFO - avg training loss of epoch 23: 0.005382186488761517
+2025-02-27 17:11:59,187 - INFO - Epoch 25/40 started.
+2025-02-27 17:15:16,531 - INFO - avg training loss of epoch 24: 0.005371753700893839
+2025-02-27 17:16:10,946 - INFO - Epoch 26/40 started.
+2025-02-27 17:19:27,921 - INFO - avg training loss of epoch 25: 0.005362130785921665
+2025-02-27 17:20:22,258 - INFO - min loss = 0.005370813889397217
+2025-02-27 17:20:22,259 - INFO - total_loss_1:69.55459722107122
+2025-02-27 17:20:22,259 - INFO - Model Saved!
+2025-02-27 17:20:23,237 - INFO - Validation results saved.
+2025-02-27 17:20:23,238 - INFO - Epoch 27/40 started.
+2025-02-27 17:23:32,304 - INFO - avg training loss of epoch 26: 0.005353405670038181
+2025-02-27 17:24:23,567 - INFO - min loss = 0.005364992333648507
+2025-02-27 17:24:23,568 - INFO - total_loss_1:69.47920569698961
+2025-02-27 17:24:23,568 - INFO - Model Saved!
+2025-02-27 17:24:24,558 - INFO - Validation results saved.
+2025-02-27 17:24:24,559 - INFO - Epoch 28/40 started.
+2025-02-27 17:27:32,318 - INFO - avg training loss of epoch 27: 0.005346091715214369
+2025-02-27 17:28:23,225 - INFO - min loss = 0.005351437174056566
+2025-02-27 17:28:23,226 - INFO - total_loss_1:69.30365969390343
+2025-02-27 17:28:23,226 - INFO - Model Saved!
+2025-02-27 17:28:24,217 - INFO - Validation results saved.
+2025-02-27 17:28:24,217 - INFO - Epoch 29/40 started.
+2025-02-27 17:31:36,807 - INFO - avg training loss of epoch 28: 0.005338873791779405
+2025-02-27 17:32:30,267 - INFO - Epoch 30/40 started.
+2025-02-27 17:35:46,922 - INFO - avg training loss of epoch 29: 0.00533260346880153
+2025-02-27 17:36:40,196 - INFO - min loss = 0.005350130809464363
+2025-02-27 17:36:40,197 - INFO - total_loss_1:69.28674158621747
+2025-02-27 17:36:40,197 - INFO - Model Saved!
+2025-02-27 17:36:41,198 - INFO - Validation results saved.
+2025-02-27 17:36:41,199 - INFO - Epoch 31/40 started.
+2025-02-27 17:39:59,551 - INFO - avg training loss of epoch 30: 0.005323888774274805
+2025-02-27 17:40:55,191 - INFO - Epoch 32/40 started.
+2025-02-27 17:44:18,091 - INFO - avg training loss of epoch 31: 0.005318992899771254
+2025-02-27 17:45:13,184 - INFO - min loss = 0.005341387006260498
+2025-02-27 17:45:13,185 - INFO - total_loss_1:69.1735049854567
+2025-02-27 17:45:13,185 - INFO - Model Saved!
+2025-02-27 17:45:14,149 - INFO - Validation results saved.
+2025-02-27 17:45:14,149 - INFO - Epoch 33/40 started.
+2025-02-27 17:48:29,846 - INFO - avg training loss of epoch 32: 0.00531248551027519
+2025-02-27 17:49:23,077 - INFO - min loss = 0.0053340881921166705
+2025-02-27 17:49:23,078 - INFO - total_loss_1:69.07898208368682
+2025-02-27 17:49:23,078 - INFO - Model Saved!
+2025-02-27 17:49:24,163 - INFO - Validation results saved.
+2025-02-27 17:49:24,164 - INFO - Epoch 34/40 started.
+2025-02-27 17:52:36,577 - INFO - avg training loss of epoch 33: 0.005304632934021254
+2025-02-27 17:53:29,364 - INFO - Epoch 35/40 started.
+2025-02-27 17:56:44,164 - INFO - avg training loss of epoch 34: 0.005302691587117648
+2025-02-27 17:57:36,380 - INFO - min loss = 0.005316388243979549
+2025-02-27 17:57:36,381 - INFO - total_loss_1:68.8497594052512
+2025-02-27 17:57:36,381 - INFO - Model Saved!
+2025-02-27 17:57:37,305 - INFO - Validation results saved.
+2025-02-27 17:57:37,305 - INFO - Epoch 36/40 started.
+2025-02-27 18:00:47,104 - INFO - avg training loss of epoch 35: 0.00529568600858157
+2025-02-27 18:01:40,688 - INFO - Epoch 37/40 started.
+2025-02-27 18:04:55,197 - INFO - avg training loss of epoch 36: 0.005289915178112296
+2025-02-27 18:05:48,911 - INFO - Epoch 38/40 started.
+2025-02-27 18:09:05,718 - INFO - avg training loss of epoch 37: 0.0052869085374177005
+2025-02-27 18:09:58,943 - INFO - Epoch 39/40 started.
+2025-02-27 18:13:14,111 - INFO - avg training loss of epoch 38: 0.005281064762172895
+2025-02-27 18:14:07,436 - INFO - min loss = 0.005307362021424515
+2025-02-27 18:14:07,436 - INFO - total_loss_1:68.7328651997792
+2025-02-27 18:14:07,436 - INFO - Model Saved!
+2025-02-27 18:14:08,554 - INFO - Validation results saved.
+2025-02-27 18:14:08,554 - INFO - Epoch 40/40 started.
+2025-02-27 18:17:19,729 - INFO - avg training loss of epoch 39: 0.005276017310605079

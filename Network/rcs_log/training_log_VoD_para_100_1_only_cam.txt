@@ -1,0 +1,3 @@
+2025-03-01 16:29:16,739 - INFO - Training started for dataset: VoD
+2025-03-01 16:29:16,739 - INFO - Batch size: 8, Epochs: 40
+2025-03-01 16:29:19,290 - INFO - Epoch 1/40 started.
