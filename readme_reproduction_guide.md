@@ -87,6 +87,7 @@ This stage reconstructs depth and assigns Doppler-related velocity after the Dis
 
 #### Main files
 - `depth_generation_vod.py`
+- `dynamic_objects_stats.py`
 - `velocity_estimation.py`
 - `lidar_interpolation.py`
 - `lidar_depth_map_builder.py`
@@ -102,6 +103,7 @@ This stage conceptually uses:
 
 #### What each file mainly does
 - `Network/depth_generation_vod.py`: reconstructs 3D radar points from 2D positions and depth values.
+- `dynamic_objects_stats.py`: estimates ego velocity for radar and velocity of dynamic objects.
 - `velocity_estimation.py`: estimates target velocity using least-squares / RANSAC-based methods.
 - `lidar_interpolation.py`: interpolates or densifies local depth.
 - `lidar_depth_map_builder.py`: prepares / builds LiDAR depth maps.
@@ -116,7 +118,8 @@ A practical order is:
 
 1. Use Dis-Net results to determine radar-point image locations / distributions.
 2. Use `depth_generation_vod.py` to recover 3D structure.
-3. Use `velocity_estimation.py` to estimate or assign Doppler velocity.
+3. Use `dynamic_objects_stats.py` to obtain ego velo and stats of velocity for all dynamic objects (prerequisite of `velocity_estimation.py`).
+4. Use `velocity_estimation.py` to estimate or assign Doppler velocity.
 
 > At the moment, this stage may require manual editing of file paths or frame-processing logic inside the scripts.
 
